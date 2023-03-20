@@ -88,3 +88,22 @@ Both parts naturally can facilitate the intake of energy and export of energy, b
 Depending upon the situation and attacks and attackers, a modulus for a system has to be defined. This defines the ratio for soft and hard defense in your system. How much threshold is needed for deterence ? And how much exposure can I give my soft defense parts without comprimising them ? Either way, when designing such systems what has to be considered is that soft defense should be the end goal. Draining the attackers of their energy to the point where they cease the attacks. Hard defense, is there to set up thresholds and secure the operation for its duration. But a stalemate with thresholds in place is not a stable solution, it is in fact metastable, ready to burst at any time given even the slightest amount of energy.
 
 The goal of hard defense is to deter attackers by increasing the difficulty of an attack, ensuring that an attack takes more energy than it normally would without these extra difficulties. The goal of soft defense is to drain the energy of attackers to the point where they become part of the system and cease hostilities indefintely. The modulus is there to calculate for the willingness of the enemy to integrate into your system.
+
+### Attacker mindset
+For an attack to occur an attacker has to be energized enough to facilitate the actions needed to conduct an attack. 
+Considering most attacks are not defensive in nature, a justification internally has to exist within the mind of the attacker for the attack.
+This justification usually stems from stress that the attacker attributes to the opposite party, the same party that receives the attacks from the attacker.
+Since the attacker is stressed out over something, otherwise the attacks wouldn't happen, the attackers has his most dominant emotion activated for a prolonged time until the stress becomes more manageable once again. And he can escape his most dominant emotion over time or with external help/influence.
+
+However, considering the attacks usually continue since the cause for the stress has not been dealt with this cooldown usually doesn't happen by itself. This, however, gives us a few parameters to work with while dealing with these attacks. Since the attacker mostly only uses one emotion to reason, the reasoning itself becomes trackable and predictable. This can, along with situational information, be used to prevent attacks (targeted thresholds) and more effectively drain their energy.
+
+This mentality of living within the domain of one single emotion for a prolonged time is more commonly called **victim mentality**.
+Depending upon the emotion in which the person with victim mentality is living you'll see different things :
+* In case the emotion is situated in the concious realm, the actions become internalized.
+This because, the concious deals with actions. The vectors only usable by the self. Responsibility of your actions lies within the self.
+* In case the emotions is situated in the metaconcious realm, the actions become externalized. 
+This because, the metaconcious deals with moods. The vectors used to address others. Entitlement of your opinions lies within the self.
+
+While the statement, you are entitled to your opinion and responsible for your actions is true. People with victim mentality take it too far.
+* Metaconcious victims tend to overreach with their opinions. Feeling entitled to any actions that in their opinion feels justified.
+* Concious victims tend to overdo it with responsibility. Being able to see the fault was not their own, they instead focus on their actions and how they should/could have addressed it instead. Implicitly blaming themselves for the outcome along the way.

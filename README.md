@@ -77,3 +77,14 @@ This means that if we move energy from one domain to the next, we can redirect t
 Redirecting this energy in such a way drains the energy with each stage depending upon the reasonance of the energy trapped in the stage prior.
 If you can make an argument that resonates with a person, you can tap into the energy that was previously trapped in a concious stage prior to the one you are now seeing. 
 Most probably, this stage will be a voyeuristic one after the argument has been made.
+
+#### Designing systems
+As established earlier, people have individual transfert functions. Some have their most dominant emotion, the most integrational one, situated in a voyeuristic polarity of an emotional axis. Others have it at an exhibisionistic polarity. Consider those with an exhibisionistic polarity to be more outward, they produce effects meant to counteract an underlying cause or in the case of the metaconcious to achieve a cause with certain effects. 
+
+Either way, these people use effects more frequently compared to people with a more integrational emotion in a voyeuristic polarity. Therefore, these people can be considered part of the **hard defense** part of the anticatalystic system. They basically push attackers back, creating a threshold to deter them.
+Their voyeuristic counterparts are then part of the **soft defense** part of the anticatalystic system.
+Both parts naturally can facilitate the intake of energy and export of energy, but the frequency for which these parts do so is different. Depending upon the transfert function, even drastically so.
+
+Depending upon the situation and attacks and attackers, a modulus for a system has to be defined. This defines the ratio for soft and hard defense in your system. How much threshold is needed for deterence ? And how much exposure can I give my soft defense parts without comprimising them ? Either way, when designing such systems what has to be considered is that soft defense should be the end goal. Draining the attackers of their energy to the point where they cease the attacks. Hard defense, is there to set up thresholds and secure the operation for its duration. But a stalemate with thresholds in place is not a stable solution, it is in fact metastable, ready to burst at any time given even the slightest amount of energy.
+
+The goal of hard defense is to deter attackers by increasing the difficulty of an attack, ensuring that an attack takes more energy than it normally would without these extra difficulties. The goal of soft defense is to drain the energy of attackers to the point where they become part of the system and cease hostilities indefintely. The modulus is there to calculate for the willingness of the enemy to integrate into your system.

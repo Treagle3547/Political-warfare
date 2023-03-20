@@ -107,3 +107,10 @@ This because, the metaconcious deals with moods. The vectors used to address oth
 While the statement, you are entitled to your opinion and responsible for your actions is true. People with victim mentality take it too far.
 * Metaconcious victims tend to overreach with their opinions. Feeling entitled to any actions that in their opinion feels justified.
 * Concious victims tend to overdo it with responsibility. Being able to see the fault was not their own, they instead focus on their actions and how they should/could have addressed it instead. Implicitly blaming themselves for the outcome along the way.
+
+#### Attacks
+How the emotion associated with victim mentality defines the attacks people will use :
+* Metaconcious exhibisionistic polarity, the export of a mood or narrative. Pressuring into compliance.
+* Metaconcious voyeuristic polarity, the export of an outlook. Changing the perspective of things.
+* Concious exhibisionistic polarity, ?
+* Concious voyeuristic polarity, ?

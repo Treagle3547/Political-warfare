@@ -76,4 +76,4 @@ From start to end they go as follows,
 This means that if we move energy from one domain to the next, we can redirect that energy into a sink or voyeuristic polarity.
 Redirecting this energy in such a way drains the energy with each stage depending upon the reasonance of the energy trapped in the stage prior.
 If you can make an argument that resonates with a person, you can tap into the energy that was previously trapped in a concious stage prior to the one you are now seeing. 
-Most probably, this stage will be a voyeuristic one.
+Most probably, this stage will be a voyeuristic one after the argument has been made.

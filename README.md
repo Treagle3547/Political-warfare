@@ -61,3 +61,16 @@ Security usually refers to the ability of safeguarding yourself and others to va
 The same applies to another physical example of security, consider any form of access control such as a guard verifying someone's identity at a gate, a finger print scanner or some form of advanced locking mechanism. All that these things really end up doing, from the perspective of a determined attacker, is slow the attacker down. If those acces control mechanisms had not been in place, it would have only made the threshold for an attack lower. The easier a target is to attack the more time and energy can be invested in the actual thing you're interested in. As interesting as doors may be, I doubt anyone would attack one with a motive other than to get inside. Therefore, I would say that all these security mechanisms really end up doing is drawing energy away from the actual target. In this case, the door absorbs the energy that the items behind it normally would if it had not been there, in the same way the bullet proof vest did in our first example. This absorbtion of energy therefore is essential to the concept of security as a whole.
 
 These energy absorbing elements are vital security instruments that slow attackers down to the point that their energy over time gets depleted, hence why such measures could be considered anticatalysts. Anticatalysts slow down reactions to heavily reduce a reaction or even prevent it all together.
+
+### Anticatalystic systems
+In order to slow down an attack or even drain it of its energy or intensity, an intake or sink for this energy has to be realised. 
+Remember that an emotional axis has two polarities, the exhibisionistic polarity and the voyeuristic polarity.
+Exhibisionistic polarities establish a presence, they facilitate or bring actions outward, they produce effects. 
+Voyeuristic polarities facilitate the intake of information, they bring actions or events inward, they produce causes.
+
+Coupling cause and effect with one another forms a complete picture of an action. Note that there are two modes of conciousness, the concious and the metaconcious.
+From start to end they go as follows, (sub)concious cause -> concious effect -> metaconcious effect -> meta(sub)concious cause -> (sub)concious cause -> ...
+This means that if we move energy from one domain to the next, we can redirect that energy into a sink or voyeuristic polarity.
+Redirecting this energy in such a way drains the energy with each stage depending upon the reasonance of the energy trapped in the stage prior.
+If you can make an argument that resonates with a person, you can tap into the energy that was previously trapped in a concious stage prior to the one you are now seeing. 
+Most probably, this stage will be a voyeuristic one.

@@ -69,7 +69,10 @@ Exhibisionistic polarities establish a presence, they facilitate or bring action
 Voyeuristic polarities facilitate the intake of information, they bring actions or events inward, they produce causes.
 
 Coupling cause and effect with one another forms a complete picture of an action. Note that there are two modes of conciousness, the concious and the metaconcious.
-From start to end they go as follows, (sub)concious cause -> concious effect -> metaconcious effect -> meta(sub)concious cause -> (sub)concious cause -> ...
+From start to end they go as follows, 
+
+(sub)concious cause -> concious effect -> metaconcious effect -> meta(sub)concious cause -> (sub)concious cause -> ...
+
 This means that if we move energy from one domain to the next, we can redirect that energy into a sink or voyeuristic polarity.
 Redirecting this energy in such a way drains the energy with each stage depending upon the reasonance of the energy trapped in the stage prior.
 If you can make an argument that resonates with a person, you can tap into the energy that was previously trapped in a concious stage prior to the one you are now seeing. 

@@ -100,9 +100,11 @@ However, considering the attacks usually continue since the cause for the stress
 This mentality of living within the domain of one single emotion for a prolonged time is more commonly called **victim mentality**.
 Depending upon the emotion in which the person with victim mentality is living you'll see different things :
 * In case the emotion is situated in the concious realm, the actions become internalized.
-This because, the concious deals with actions. The vectors only usable by the self. Responsibility of your actions lies within the self.
+
+This because, the concious deals with actions. The vectors only usable by the self. Responsibility of your actions lies within the self, you're the only one capable of acting on the situation. Your choices determine every action you make, so given the adverserial situation you find yourself in, what choice will you make ? This question makes this reasoning internalized.
 * In case the emotions is situated in the metaconcious realm, the actions become externalized. 
-This because, the metaconcious deals with moods. The vectors used to address others. Entitlement of your opinions lies within the self.
+
+This because, the metaconcious deals with moods. The vectors used to address others. Opinions are formed using your mood about something. Entitlement of your opinions stem from their perceived validity, this validity is determined by others. This search for validity makes this reasoning external.
 
 While the statement, you are entitled to your opinion and responsible for your actions is true. People with victim mentality take it too far.
 * Metaconcious victims tend to overreach with their opinions. Feeling entitled to any actions that in their opinion feels justified.
@@ -110,7 +112,37 @@ While the statement, you are entitled to your opinion and responsible for your a
 
 #### Attacks
 How the emotion associated with victim mentality defines the attacks people will use :
-* Metaconcious exhibisionistic polarity, the export of a mood or narrative. Pressuring into compliance.
-* Metaconcious voyeuristic polarity, the export of an outlook. Changing the perspective of things.
-* Concious exhibisionistic polarity, ?
-* Concious voyeuristic polarity, ?
+* Metaconcious exhibisionistic polarity, the export of a mood or narrative. Will pressure people into compliance.
+
+The situation happened and I, among MANY others, undeservingly became the victim of it. The offenders will deny this, the other victims will support me in this.
+Those that do not support me are against me and therefore either the offenders themselves or one of their accomplices.
+Together with the other victims we can achieve TRUE justice by punishing the offenders for their heinous crimes.
+
+* Metaconcious voyeuristic polarity, the export of an outlook. Will change the perspective of things.
+
+As soon as an opinion entered their minds, they'll share it with everyone. They'll retell their perspective over and over but they'll never delve deeper into the situation. They focus more on how they perceived an issue rather than dealing with it. They don't want solutions, they're looking for acknowledgment.
+Making sure everyone around them sees a problem the same way that they do. Worst that can happen to any opposition to their interpretation of a problem is that they'll be lumped into the perspective of the original problem. They'll loosely interpret this opposition as being part of the original problem. This form of mudslinging is usually referred to as gossip and slander.
+
+* Concious exhibisionistic polarity, the import of a situation/problem and subsequent acting on said problem. Will change the ownership of the problem in the process.
+
+As soon as an issue finds its way to you, it becomes your problem. If there was help out there, then there wouldn't be a problem.
+Every man for himself, inability to address the issue means you're left at the mercy of the situation.
+Others might be dealing with similair stuff, however nothing will change the situation unless you make the choice to do so.
+Therefore you're the only one able to address the things said problem is giving you. 
+Your choices, voluntarily or involutarily, somehow brought you here, now they'll have to take you out of it.
+
+* Concious voyeuristic polarity, the import of an outlook on a situation/problem. Will act adherent to said outlook.
+
+When confronted with an issue, they'll take it all in. These people are vulnerable, extremely so. Note that the transfert function has stages, these people have their dominant emotion located at the front of the input. There is no emotion in between to slow the impulses down or push it back, not even a little bit. This means, that these people are at the mercy of the situation they find themselves in when stressed out. Naturally, they'll reach out for help because in their situation their options are rather limited. This means they'll open themselves up to anyone coming their way at that time, in the name of looking for help. This invites abuse. Depending upon the outlook, this can lead to horrid results.
+
+#### Proportionalty mechanism in attacks
+
+The perceived intensity of an attack endured by the now attacking party is going to be the same as the one "seemingly" endured by them. An attack in this scenario is therefore always retaliatory. It goes even further than that, the situation perceived by the attacker is going to be the blueprint behind the attack they will execute. In their mind, what they are actually doing is completely justified and therefore not an attack at all.
+
+This mechanism can be used to tackle the cause behind the attacks. Eliminate the cause and you'll be able to reintegrate them. In order to find it, you'll have to deduce their typing as well as the general theme behind their attacks. Deduce what they think they're doing and you'll see why they're doing it. This process is the basis in psychological reverse engineering. Reverse engineer the attacks and you'll be able to counter them.
+
+#### False conclusions
+
+People suffering from victim mentality have been exposed for a prolonged period of time to a source of stress that has kept them locked into one dominant emotion for the duration of the exposure. This has consequences on their reasoning, they'll draw inferences not on all aspects of time but just on one time domain. This leads to two different sources of stress being lumped together into the same emotional response from the "victim's perspective". This then makes these two distinct sources of stress interrelated into the mind of the "victim". They'll draw inferences between these two sources of stress, not because they are related but because they activate the same emotion.
+
+Normally, this activation of the same emotion only happens when sources of the stimuli are indeed related, atleast in time, now however they get activated because they person experiencing them is quite literally stressed out. Their emotional spectum is saturated with energy, leading them to respond with the dominant emotion of their transfert function and only with that dominant emotion. Nothing else. This leads to false conclusions being drawn that then in turn will be used by these "victims" to conduct more attacks.

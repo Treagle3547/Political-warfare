@@ -137,7 +137,7 @@ When confronted with an issue, they'll take it all in. These people are vulnerab
 
 #### Proportionalty mechanism in attacks
 
-The perceived intensity of an attack endured by the now attacking party is going to be the same as the one "seemingly" endured by them. An attack in this scenario is therefore always retaliatory. It goes even further than that, the situation perceived by the attacker is going to be the blueprint behind the attack they will execute. In their mind, what they are actually doing is completely justified and therefore not an attack at all.
+The perceived intensity of an attack by an attacking party is going to be the same as the one "seemingly" endured by them. An attack in this scenario is therefore always retaliatory. It goes even further than that, the situation perceived by the attacker is going to be the blueprint behind the attack they will execute. In their mind, what they are actually doing is completely justified and therefore not an attack at all.
 
 This mechanism can be used to tackle the cause behind the attacks. Eliminate the cause and you'll be able to reintegrate them. In order to find it, you'll have to deduce their typing as well as the general theme behind their attacks. Deduce what they think they're doing and you'll see why they're doing it. This process is the basis in psychological reverse engineering. Reverse engineer the attacks and you'll be able to counter them.
 
